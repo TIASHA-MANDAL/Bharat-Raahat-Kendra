@@ -1,0 +1,11 @@
+Adhar Number - 123456781234
+Address - 12/A,Swamiji Road, Behala, Kolkata- 700060
+State - West Bengal
+Phone Number - 9163706114
+Al Phone Number - 9836173388
+DOB - 18/09/2003
+Age - 20
+Gender- Female
+Father Name - Rahul Mandal
+Mother Name - Rita Mandal
+Email - tiashamandal21@gmail.com

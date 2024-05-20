@@ -1,0 +1,118 @@
+.g-0{
+    display: flex;
+    flex-direction: row;
+    padding-top: 50px;
+    margin-left: 70px;
+    padding-bottom: 50px;
+    border-bottom: 3px solid #cac8c8;
+    /* border-radius: 10px; */
+
+    .pic1{
+        border-radius: 2px 16px;
+        /* height: 200px; */
+        width: 90vw;
+        height: 50vh;
+        
+    }
+    .text1{
+        display: flex;
+        flex-direction: column;
+        margin-left: 60px;
+        width: 750px;
+    }
+}
+
+.g-1{
+    display: flex;
+    flex-direction: row;
+    padding-top: 35px;
+    margin-left: 70px;
+    padding-bottom: 50px;
+    border-bottom: 3px solid #cac8c8;
+    width: 130vw;
+    /* padding-right: -100px; */
+    .pic256{
+        
+        border-radius: 2px 16px;
+        /* height: 200px; */
+        width: 60vw;
+        height: 50vh;
+        margin-left: 905px;
+        margin-top: -320px;
+        border: none;
+        /* padding-right: -400px; */
+
+    }
+    .text2{
+        display: flex;
+        flex-direction: column;
+        padding-left: 10px;
+        margin-top: 10px;
+        width: 700px;
+    }
+    
+    
+}
+
+.g-2{
+    display: flex;
+    flex-direction: row;
+    padding-top: 50px;
+    margin-left: 70px;
+    padding-bottom: 50px;
+    border-bottom: 3px solid #cac8c8;
+    /* border-radius: 10px; */
+
+    .pic3{
+        border-radius: 2px 16px;
+        height: 50vh;
+        width: 600px;
+    }
+    .text3{
+        display: flex;
+        flex-direction: column;
+        padding-left: 70px;
+        width: 750px;
+    }
+}
+
+.g-4{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-top: 50px;
+    margin-left: 70px;
+    padding-bottom: 50px;
+    border-bottom: 3px solid #cac8c8;
+    .h-101{
+        padding-right: 10px;
+        width: 450px;
+    }
+    .h-102{
+        padding-right: 10px;
+        padding-left: 10px;
+        width: 450px;
+    }
+    .h-103{
+        padding-left: 10px;
+        width: 450px;
+    }
+    .pic4{
+        border-radius: 10px;
+    }
+    .pic5{
+        border-radius: 10px;
+        height: 295px;
+    }
+    .pic6{
+        border-radius: 10px;
+        height: 295px;
+    }
+}
+.card681{
+    margin-right: -4vw;
+}
+.pic2_56{
+    margin-left: 50vw;
+    width: 60vw;
+}
